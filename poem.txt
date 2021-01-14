@@ -1,11 +1,11 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Pony
 Purple
-PinkUnicorn
+PinkUnicornPony
 Orange
-BlueUnicorn
+BlueUnicornPony
 Indigo
 Green
-YellowUnicorn
+YellowUnicornPony
 Red
 These are the colors of the Rainbow
-Unicorn
+UnicornPony
