@@ -3,6 +3,7 @@ Purple
 PinkUnicornPony
 Orange
 BlueUnicornPony
+Indigo
 Green
 YellowUnicornPony
 Red
