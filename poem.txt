@@ -1,9 +1,10 @@
-The Rainbow
+The Rainbow and the Unicorn
 Purple
-Pink
+PinkUnicorn
 Orange
-Blue
+BlueUnicorn
 Green
-Yellow
+YellowUnicorn
 Red
 These are the colors of the Rainbow
+Unicorn
